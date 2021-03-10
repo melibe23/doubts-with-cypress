@@ -14,13 +14,13 @@ describe(`RegExp issue`, () => {
 
     it("First attempt - Fails", function () {
       cy.get('head meta[name="description"]').then(p => {
-        expect(p).to.have.attr("content", this.fixture.description);
+        expect(p).to.have.attr("content", this.fixture[key].description);
       });
     });
 
     it("Second attempt - Fails", function () {
       cy.get('head meta[name="description"]').then(p => {
-        const regExp = new RegExp(this.fixture.description)
+        const regExp = new RegExp(this.fixture[key].description)
         expect(p).to.have.attr("content", regExp);
       });
     });
