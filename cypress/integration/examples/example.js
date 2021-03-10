@@ -25,7 +25,8 @@ describe(`RegExp issue`, () => {
       });
     });
 
-    it.only("Third attempt - Fails", function () {
+    // THIS ONEEEEE IS THE ANSWEEEER
+    it.only("Third attempt - PASSED", function () {
       cy.get('head meta[name="description"]').then(p => {
         const regExp = new RegExp(this.fixture[key].description)
         expect(p).to.have.attr("content").match(regExp);
