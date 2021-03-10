@@ -32,3 +32,5 @@ describe(`RegExp issue`, () => {
     });
   });
 });
+
+// Because the type of testing I have to do, I cannot go with the 4th attemp. 
