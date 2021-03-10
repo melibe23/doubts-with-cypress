@@ -1,3 +1,117 @@
 {
-  "description": "^Reviewing [0-9]+ of the best ecommerce software applications.  GetApp lets you compare the list of tools and vendors that provide ecommerce software solutions.$"
+  "category": {
+    "h1": "CRM Software",
+    "title": "CRM Software 2021 - Best Application Comparison | GetApp®",
+    "description": "^Reviewing [0-9]+ of the best ecommerce software applications.  GetApp lets you compare the list of tools and vendors that provide ecommerce software solutions.$",
+    "h2": "h2",
+    "h3": "h3",
+    "ogtitle": "CRM Software 2021 - Best Application Comparison",
+    "ogdescription": "Reviewing 403 of the best crm software applications.  GetApp lets you compare the list of tools and vendors that provide crm software solutions.",
+    "titleTwitter": "CRM Software 2021 - Best Application Comparison",
+    "descriptionTwitter": "Reviewing 403 of the best crm software applications.  GetApp lets you compare the list of tools and vendors that provide crm software solutions."
+  },
+  "integrated": {
+    "h1": "",
+    "title": "",
+    "description": "",
+    "h2": "",
+    "ogtitle": "",
+    "ogdescription": "",
+    "titleTwitter": "",
+    "descriptionTwitter": ""
+  },
+
+  "free": {
+    "h1": "",
+    "title": "",
+    "description": "",
+    "h2": "",
+    "ogtitle": "",
+    "ogdescription": "",
+    "titleTwitter": "",
+    "descriptionTwitter": ""
+  },
+
+  "iPad": {
+    "h1": "",
+    "title": "",
+    "description": "",
+    "h2": "",
+    "ogtitle": "",
+    "ogdescription": "",
+    "titleTwitter": "",
+    "descriptionTwitter": ""
+  },
+
+  "webBased": {
+    "h1": "",
+    "title": "",
+    "description": "",
+    "h2": "",
+    "ogtitle": "",
+    "ogdescription": "",
+    "titleTwitter": "",
+    "descriptionTwitter": ""
+  },
+  "mac": {
+    "h1": "",
+    "title": "",
+    "description": "",
+    "h2": "",
+    "ogtitle": "",
+    "ogdescription": "",
+    "titleTwitter": "",
+    "descriptionTwitter": ""
+  },
+  "android": {
+    "h1": "",
+    "title": "",
+    "description": "",
+    "h2": "",
+    "ogtitle": "",
+    "ogdescription": "",
+    "titleTwitter": "",
+    "descriptionTwitter": ""
+  },
+
+  "linux": {
+    "h1": "",
+    "title": "",
+    "description": "",
+    "h2": "",
+    "ogtitle": "",
+    "ogdescription": "",
+    "titleTwitter": "",
+    "descriptionTwitter": ""
+  },
+  "features": {
+    "h1": "",
+    "title": "",
+    "description": "",
+    "h2": "",
+    "ogtitle": "",
+    "ogdescription": "",
+    "titleTwitter": "",
+    "descriptionTwitter": ""
+  },
+  "oganization": {
+    "h1": "",
+    "title": "",
+    "description": "",
+    "h2": "",
+    "ogtitle": "",
+    "ogdescription": "",
+    "titleTwitter": "",
+    "descriptionTwitter": ""
+  },
+  "geo": {
+    "h1": "",
+    "title": "",
+    "description": "",
+    "h2": "",
+    "ogtitle": "",
+    "ogdescription": "",
+    "titleTwitter": "",
+    "descriptionTwitter": ""
+  }
 }

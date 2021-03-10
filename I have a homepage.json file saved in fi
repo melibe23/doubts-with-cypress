@@ -1,0 +1,19 @@
+I have a homepage.json file saved in fixtures folder where I have the following.
+
+{category: "^This is my assertion, number [0-9]+.$"}
+
+In the beforeEach, I call this file:
+
+describe(`Homepage`, () => {
+beforeEach(() => {
+      cy.fixture("SEO/homepage.json").as("seo");
+
+ });
+
+      it("og:description tag content", function() {
+      cy.get('head meta[property="og:description"]').then(p => {
+        expect(p).to.have.attr("content", this.seo.ogdescription);
+      });
+    });
+
+    
