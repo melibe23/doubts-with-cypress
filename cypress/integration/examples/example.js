@@ -1,3 +1,5 @@
+// The last attempt works. 
+
 describe(`RegExp issue`, () => {
   beforeEach(() => {
     cy.fixture("example.json").as("fixture");
