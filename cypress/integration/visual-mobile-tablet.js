@@ -1,6 +1,6 @@
 import { viewportsObj, userAgents, viewportsNames, browser } from '../support/default'
 
-const path = `https://www.cypress.io/`
+const path = `https://example.cypress.io/`
 
 describe(`${browser}-hero-image`, () => {
   context('desktop', () => {
